@@ -76,4 +76,15 @@ ul li img {
 
 .card button {
     display: grid;
+    place-items: center;
+    min-width: 200px;
+    padding: 14px 0;
+
+    border-radius: 6px;
+    border: 2px solid #0f71ff;
+    background: transparent;
+    color: #0f71ff;
+
+    font-size: inherit;
+    font-family: inherit;
 }
