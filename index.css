@@ -88,3 +88,14 @@ ul li img {
     font-size: inherit;
     font-family: inherit;
 }
+
+.card.primary button {
+    background: #0f71ff;
+    color: #f7f7f7; 
+}
+
+@media (width >= 660px) {
+    .card {
+        width: 60vw;
+    }
+}
