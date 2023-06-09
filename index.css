@@ -110,3 +110,13 @@ ul li img {
 body, html {
     height: 100%;
 }
+
+.card {
+    width: 300px;
+    max-width: 300px;
+    margin: 0;
+}
+
+.card.primary {
+    order: 2;
+}
